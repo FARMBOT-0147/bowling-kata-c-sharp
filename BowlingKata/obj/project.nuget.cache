@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X9NTS/oWfO4eKg0OM+xOdJ8tqSkeNUFr74YFERkHvb44xV1uPt8wSrfGBiX3Sfcbf9MoRnyeSeKxShVNzkFczg==",
+  "dgSpecHash": "Bd0oMnM3XQ8gdtIJidltw8gJSIfransumTKRGHLiecjKOcjUJBkE2BadKwsmi7USrDKcHcF46GJinbSnudLrYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\logan\\source\\repos\\BowlingKata\\BowlingKata\\BowlingKata.csproj",
+  "projectFilePath": "C:\\Github\\bowling-kata-c-sharp\\BowlingKata\\BowlingKata.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

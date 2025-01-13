@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Github\\bowling-kata-c-sharp\\BowlingKata\\BowlingKata.csproj",
-      "projectName": "BowlingKata",
-      "projectPath": "C:\\Github\\bowling-kata-c-sharp\\BowlingKata\\BowlingKata.csproj",
+      "projectUniqueName": "C:\\Github\\bowling-kata-c-sharp\\Tests\\Tests.csproj",
+      "projectName": "Tests",
+      "projectPath": "C:\\Github\\bowling-kata-c-sharp\\Tests\\Tests.csproj",
       "packagesPath": "C:\\Users\\logan\\.nuget\\packages\\",
-      "outputPath": "C:\\Github\\bowling-kata-c-sharp\\BowlingKata\\obj\\",
+      "outputPath": "C:\\Github\\bowling-kata-c-sharp\\Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\logan\\AppData\\Roaming\\NuGet\\NuGet.Config",
